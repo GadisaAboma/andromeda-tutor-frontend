@@ -32,7 +32,8 @@
    .header-contianer a {
     color: white;
     text-decoration: none;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    font-weight: bold;
    }
 
    .header-contianer ul {
